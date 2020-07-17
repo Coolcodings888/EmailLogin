@@ -19,6 +19,8 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class LoginActivity extends AppCompatActivity {
 
+    //just trying to use git..
+
     private EditText emailTV, passwordTV;
     private Button loginBtn;
     private ProgressBar progressBar;
@@ -87,4 +89,7 @@ public class LoginActivity extends AppCompatActivity {
         loginBtn = findViewById(R.id.login);
         progressBar = findViewById(R.id.progressBar);
     }
+
+    int b = 132;
+    //okay finally done.
 }
