@@ -19,7 +19,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class LoginActivity extends AppCompatActivity {
 
-    //just trying to use git..
+    //just trying to use git..iiiiiiiiiii
 
     private EditText emailTV, passwordTV;
     private Button loginBtn;
